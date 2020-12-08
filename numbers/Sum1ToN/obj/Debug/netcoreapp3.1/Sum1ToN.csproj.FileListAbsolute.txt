@@ -1,0 +1,11 @@
+C:\Repos\Train\Sum1ToN\bin\Debug\netcoreapp3.1\Sum1ToN.exe
+C:\Repos\Train\Sum1ToN\bin\Debug\netcoreapp3.1\Sum1ToN.deps.json
+C:\Repos\Train\Sum1ToN\bin\Debug\netcoreapp3.1\Sum1ToN.runtimeconfig.json
+C:\Repos\Train\Sum1ToN\bin\Debug\netcoreapp3.1\Sum1ToN.runtimeconfig.dev.json
+C:\Repos\Train\Sum1ToN\bin\Debug\netcoreapp3.1\Sum1ToN.dll
+C:\Repos\Train\Sum1ToN\bin\Debug\netcoreapp3.1\Sum1ToN.pdb
+C:\Repos\Train\Sum1ToN\obj\Debug\netcoreapp3.1\Sum1ToN.csprojAssemblyReference.cache
+C:\Repos\Train\Sum1ToN\obj\Debug\netcoreapp3.1\Sum1ToN.AssemblyInfoInputs.cache
+C:\Repos\Train\Sum1ToN\obj\Debug\netcoreapp3.1\Sum1ToN.AssemblyInfo.cs
+C:\Repos\Train\Sum1ToN\obj\Debug\netcoreapp3.1\Sum1ToN.dll
+C:\Repos\Train\Sum1ToN\obj\Debug\netcoreapp3.1\Sum1ToN.pdb

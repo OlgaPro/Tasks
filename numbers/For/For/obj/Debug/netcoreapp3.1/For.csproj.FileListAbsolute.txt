@@ -1,0 +1,11 @@
+C:\Repos\Train\numbers\For\For\bin\Debug\netcoreapp3.1\For.exe
+C:\Repos\Train\numbers\For\For\bin\Debug\netcoreapp3.1\For.deps.json
+C:\Repos\Train\numbers\For\For\bin\Debug\netcoreapp3.1\For.runtimeconfig.json
+C:\Repos\Train\numbers\For\For\bin\Debug\netcoreapp3.1\For.runtimeconfig.dev.json
+C:\Repos\Train\numbers\For\For\bin\Debug\netcoreapp3.1\For.dll
+C:\Repos\Train\numbers\For\For\bin\Debug\netcoreapp3.1\For.pdb
+C:\Repos\Train\numbers\For\For\obj\Debug\netcoreapp3.1\For.csprojAssemblyReference.cache
+C:\Repos\Train\numbers\For\For\obj\Debug\netcoreapp3.1\For.AssemblyInfoInputs.cache
+C:\Repos\Train\numbers\For\For\obj\Debug\netcoreapp3.1\For.AssemblyInfo.cs
+C:\Repos\Train\numbers\For\For\obj\Debug\netcoreapp3.1\For.dll
+C:\Repos\Train\numbers\For\For\obj\Debug\netcoreapp3.1\For.pdb

@@ -1,0 +1,11 @@
+C:\Repos\Train\Ksec\bin\Debug\netcoreapp3.1\Ksec.exe
+C:\Repos\Train\Ksec\bin\Debug\netcoreapp3.1\Ksec.deps.json
+C:\Repos\Train\Ksec\bin\Debug\netcoreapp3.1\Ksec.runtimeconfig.json
+C:\Repos\Train\Ksec\bin\Debug\netcoreapp3.1\Ksec.runtimeconfig.dev.json
+C:\Repos\Train\Ksec\bin\Debug\netcoreapp3.1\Ksec.dll
+C:\Repos\Train\Ksec\bin\Debug\netcoreapp3.1\Ksec.pdb
+C:\Repos\Train\Ksec\obj\Debug\netcoreapp3.1\Ksec.csprojAssemblyReference.cache
+C:\Repos\Train\Ksec\obj\Debug\netcoreapp3.1\Ksec.AssemblyInfoInputs.cache
+C:\Repos\Train\Ksec\obj\Debug\netcoreapp3.1\Ksec.AssemblyInfo.cs
+C:\Repos\Train\Ksec\obj\Debug\netcoreapp3.1\Ksec.dll
+C:\Repos\Train\Ksec\obj\Debug\netcoreapp3.1\Ksec.pdb
