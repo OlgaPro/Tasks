@@ -1,0 +1,11 @@
+C:\Repos\Train\string\WorkWithStr\obj\Debug\netcoreapp3.1\WorkWithStr.csprojAssemblyReference.cache
+C:\Repos\Train\string\WorkWithStr\obj\Debug\netcoreapp3.1\WorkWithStr.AssemblyInfoInputs.cache
+C:\Repos\Train\string\WorkWithStr\obj\Debug\netcoreapp3.1\WorkWithStr.AssemblyInfo.cs
+C:\Repos\Train\string\WorkWithStr\bin\Debug\netcoreapp3.1\WorkWithStr.exe
+C:\Repos\Train\string\WorkWithStr\bin\Debug\netcoreapp3.1\WorkWithStr.deps.json
+C:\Repos\Train\string\WorkWithStr\bin\Debug\netcoreapp3.1\WorkWithStr.runtimeconfig.json
+C:\Repos\Train\string\WorkWithStr\bin\Debug\netcoreapp3.1\WorkWithStr.runtimeconfig.dev.json
+C:\Repos\Train\string\WorkWithStr\bin\Debug\netcoreapp3.1\WorkWithStr.dll
+C:\Repos\Train\string\WorkWithStr\bin\Debug\netcoreapp3.1\WorkWithStr.pdb
+C:\Repos\Train\string\WorkWithStr\obj\Debug\netcoreapp3.1\WorkWithStr.dll
+C:\Repos\Train\string\WorkWithStr\obj\Debug\netcoreapp3.1\WorkWithStr.pdb

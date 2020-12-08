@@ -1,0 +1,11 @@
+C:\Repos\Train\string\CheckTheSymbol\bin\Debug\netcoreapp3.1\CheckTheSymbol.exe
+C:\Repos\Train\string\CheckTheSymbol\bin\Debug\netcoreapp3.1\CheckTheSymbol.deps.json
+C:\Repos\Train\string\CheckTheSymbol\bin\Debug\netcoreapp3.1\CheckTheSymbol.runtimeconfig.json
+C:\Repos\Train\string\CheckTheSymbol\bin\Debug\netcoreapp3.1\CheckTheSymbol.runtimeconfig.dev.json
+C:\Repos\Train\string\CheckTheSymbol\bin\Debug\netcoreapp3.1\CheckTheSymbol.dll
+C:\Repos\Train\string\CheckTheSymbol\bin\Debug\netcoreapp3.1\CheckTheSymbol.pdb
+C:\Repos\Train\string\CheckTheSymbol\obj\Debug\netcoreapp3.1\CheckTheSymbol.csprojAssemblyReference.cache
+C:\Repos\Train\string\CheckTheSymbol\obj\Debug\netcoreapp3.1\CheckTheSymbol.AssemblyInfoInputs.cache
+C:\Repos\Train\string\CheckTheSymbol\obj\Debug\netcoreapp3.1\CheckTheSymbol.AssemblyInfo.cs
+C:\Repos\Train\string\CheckTheSymbol\obj\Debug\netcoreapp3.1\CheckTheSymbol.dll
+C:\Repos\Train\string\CheckTheSymbol\obj\Debug\netcoreapp3.1\CheckTheSymbol.pdb

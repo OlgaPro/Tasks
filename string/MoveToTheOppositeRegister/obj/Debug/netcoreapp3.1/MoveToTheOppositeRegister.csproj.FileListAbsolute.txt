@@ -1,0 +1,11 @@
+C:\Repos\Train\string\MoveToTheOppositeRegister\bin\Debug\netcoreapp3.1\MoveToTheOppositeRegister.exe
+C:\Repos\Train\string\MoveToTheOppositeRegister\bin\Debug\netcoreapp3.1\MoveToTheOppositeRegister.deps.json
+C:\Repos\Train\string\MoveToTheOppositeRegister\bin\Debug\netcoreapp3.1\MoveToTheOppositeRegister.runtimeconfig.json
+C:\Repos\Train\string\MoveToTheOppositeRegister\bin\Debug\netcoreapp3.1\MoveToTheOppositeRegister.runtimeconfig.dev.json
+C:\Repos\Train\string\MoveToTheOppositeRegister\bin\Debug\netcoreapp3.1\MoveToTheOppositeRegister.dll
+C:\Repos\Train\string\MoveToTheOppositeRegister\bin\Debug\netcoreapp3.1\MoveToTheOppositeRegister.pdb
+C:\Repos\Train\string\MoveToTheOppositeRegister\obj\Debug\netcoreapp3.1\MoveToTheOppositeRegister.csprojAssemblyReference.cache
+C:\Repos\Train\string\MoveToTheOppositeRegister\obj\Debug\netcoreapp3.1\MoveToTheOppositeRegister.AssemblyInfoInputs.cache
+C:\Repos\Train\string\MoveToTheOppositeRegister\obj\Debug\netcoreapp3.1\MoveToTheOppositeRegister.AssemblyInfo.cs
+C:\Repos\Train\string\MoveToTheOppositeRegister\obj\Debug\netcoreapp3.1\MoveToTheOppositeRegister.dll
+C:\Repos\Train\string\MoveToTheOppositeRegister\obj\Debug\netcoreapp3.1\MoveToTheOppositeRegister.pdb

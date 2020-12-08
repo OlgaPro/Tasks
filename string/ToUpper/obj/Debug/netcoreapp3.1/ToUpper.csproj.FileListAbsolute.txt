@@ -1,0 +1,11 @@
+C:\Repos\Train\string\ToUpper\bin\Debug\netcoreapp3.1\ToUpper.exe
+C:\Repos\Train\string\ToUpper\bin\Debug\netcoreapp3.1\ToUpper.deps.json
+C:\Repos\Train\string\ToUpper\bin\Debug\netcoreapp3.1\ToUpper.runtimeconfig.json
+C:\Repos\Train\string\ToUpper\bin\Debug\netcoreapp3.1\ToUpper.runtimeconfig.dev.json
+C:\Repos\Train\string\ToUpper\bin\Debug\netcoreapp3.1\ToUpper.dll
+C:\Repos\Train\string\ToUpper\bin\Debug\netcoreapp3.1\ToUpper.pdb
+C:\Repos\Train\string\ToUpper\obj\Debug\netcoreapp3.1\ToUpper.csprojAssemblyReference.cache
+C:\Repos\Train\string\ToUpper\obj\Debug\netcoreapp3.1\ToUpper.AssemblyInfoInputs.cache
+C:\Repos\Train\string\ToUpper\obj\Debug\netcoreapp3.1\ToUpper.AssemblyInfo.cs
+C:\Repos\Train\string\ToUpper\obj\Debug\netcoreapp3.1\ToUpper.dll
+C:\Repos\Train\string\ToUpper\obj\Debug\netcoreapp3.1\ToUpper.pdb
