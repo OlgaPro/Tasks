@@ -1,0 +1,11 @@
+C:\Repos\Train\Mass\bin\Debug\netcoreapp3.1\Mass.exe
+C:\Repos\Train\Mass\bin\Debug\netcoreapp3.1\Mass.deps.json
+C:\Repos\Train\Mass\bin\Debug\netcoreapp3.1\Mass.runtimeconfig.json
+C:\Repos\Train\Mass\bin\Debug\netcoreapp3.1\Mass.runtimeconfig.dev.json
+C:\Repos\Train\Mass\bin\Debug\netcoreapp3.1\Mass.dll
+C:\Repos\Train\Mass\bin\Debug\netcoreapp3.1\Mass.pdb
+C:\Repos\Train\Mass\obj\Debug\netcoreapp3.1\Mass.csprojAssemblyReference.cache
+C:\Repos\Train\Mass\obj\Debug\netcoreapp3.1\Mass.AssemblyInfoInputs.cache
+C:\Repos\Train\Mass\obj\Debug\netcoreapp3.1\Mass.AssemblyInfo.cs
+C:\Repos\Train\Mass\obj\Debug\netcoreapp3.1\Mass.dll
+C:\Repos\Train\Mass\obj\Debug\netcoreapp3.1\Mass.pdb

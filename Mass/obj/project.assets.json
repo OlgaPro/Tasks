@@ -9,19 +9,21 @@
   },
   "packageFolders": {
     "C:\\Users\\L-46E5570\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Repos\\Train\\string\\CheckTheSymbol\\CheckTheSymbol.csproj",
-      "projectName": "CheckTheSymbol",
-      "projectPath": "C:\\Repos\\Train\\string\\CheckTheSymbol\\CheckTheSymbol.csproj",
+      "projectUniqueName": "C:\\Repos\\Train\\Mass\\Mass.csproj",
+      "projectName": "Mass",
+      "projectPath": "C:\\Repos\\Train\\Mass\\Mass.csproj",
       "packagesPath": "C:\\Users\\L-46E5570\\.nuget\\packages\\",
-      "outputPath": "C:\\Repos\\Train\\string\\CheckTheSymbol\\obj\\",
+      "outputPath": "C:\\Repos\\Train\\Mass\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
+        "C:\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
         "C:\\Users\\L-46E5570\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,10 +41,32 @@
         "netcoreapp3.1": {
           "projectReferences": {}
         }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
       }
     },
     "frameworks": {
-      "netcoreapp3.1": {}
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+      }
     }
   }
 }
